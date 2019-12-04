@@ -1,0 +1,65 @@
+.marker {
+  display: block;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  background: url("http://localhost:3000/icon/loc.png") no-repeat;
+  width:64px;
+  height:64px;
+  padding-left: 5px;
+  z-index: 10;
+}
+.marker p {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius:50%;
+  animation: myfirst 1.0s infinite;
+  box-shadow: 0px 0px 10px rgb(217, 0, 0); 
+}  
+@keyframes myfirst{
+  5% {transform: scale(4);}  
+  10% {transform: scale(5);}  
+  25% {transform: scale(6);}  
+  30% {transform: scale(7);}  
+  35% {transform: scale(8);}  
+  40% {transform: scale(9);}  
+  45% {transform: scale(10);}  
+  50% {transform: scale(11);}  
+  55% {transform: scale(12);}  
+  60% {transform: scale(13);}  
+  65% {transform: scale(14);}
+  70% {transform: scale(15);}  
+  75% {transform: scale(16);}  
+  80% {transform: scale(17);}  
+  85% {transform: scale(18);}  
+  90% {transform: scale(19);}    
+  95% {transform: scale(20);}  
+  100% {transform: scale(21);}
+}
+
+.popup {
+  z-index: 1000;
+  max-width: 400px;
+  max-height: 250px;
+  font-size: 13px;
+  padding: 0px;
+}
+
+.mapboxgl-popup-content {
+  background: rgba(5, 6, 8, 0.8) !important;
+  padding: 0px !important;
+  border-radius: 4%;
+}
+
+.mapboxgl-popup-tip {
+  opacity: 0;
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib a{
+  color: rgba(0, 0, 0, 0);
+}

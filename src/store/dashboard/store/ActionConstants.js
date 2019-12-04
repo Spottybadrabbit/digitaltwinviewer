@@ -1,0 +1,1 @@
+export const LOAD_UI_WIDGET = 'load/ui/widget/';

@@ -1,0 +1,42 @@
+[
+	{
+	"type": "Feature",
+	"properties": {
+		"NAME": "治安事件"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9551207884, 34.2636746649,100]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "治安事件"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.953621, 34.261941,35]
+	}
+  },
+  {
+	"type": "Feature",
+	"properties": {
+		"NAME": "治安事件"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.955299, 34.265386,100]
+	}
+  },
+  {
+	"type": "Feature",
+	"properties": {
+		"NAME": "治安事件"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.950638, 34.262267,60]
+	}
+  }
+]

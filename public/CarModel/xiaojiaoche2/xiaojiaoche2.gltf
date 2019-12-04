@@ -1,0 +1,922 @@
+{
+	"asset": {
+		"generator": "Unity 5.6.3f1",
+		"extras": {
+			"exporterVersion" : "2.2.1"
+		},
+		"version": "2.0"
+	},
+	"accessors": [
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 44,
+			"max": [ 0.2632202, -0.5802909, 0.02436402 ],
+			"min": [ -0.2631786, -0.6818906, -0.1923787 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 528,
+			"componentType": 5126,
+			"count": 44,
+			"max": [ 0.9480041, -0.2215131, 0.01628689 ],
+			"min": [ -0.9532748, -0.9993978, -0.2656716 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 44,
+			"max": [ 2.193691, 3.968629 ],
+			"min": [ -1.193691, -2.968629 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 44,
+			"max": [ 1, 0.973257, 0.0004498792, -1 ],
+			"min": [ 0.2297191, -0.9722745, -0.000422444, -1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 138,
+			"max": [ 43 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 1056,
+			"componentType": 5126,
+			"count": 3054,
+			"max": [ 0.2900609, 0.4973826, 0.2538785 ],
+			"min": [ -0.277792, -0.5393301, 0.112156 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 37704,
+			"componentType": 5126,
+			"count": 3054,
+			"max": [ 1, 0.9553792, 0.955319 ],
+			"min": [ -1, -0.9553542, -0.9553372 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 704,
+			"componentType": 5126,
+			"count": 3054,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 276,
+			"componentType": 5123,
+			"count": 11136,
+			"max": [ 3053 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 74352,
+			"componentType": 5126,
+			"count": 27,
+			"max": [ 0.2911105, 0.5946596, 0.138197 ],
+			"min": [ 0.1753199, -0.676015, -0.05633817 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 74676,
+			"componentType": 5126,
+			"count": 27,
+			"max": [ 0.9878467, 0.9500998, 0.1382687 ],
+			"min": [ 0.05084191, -0.9448022, -0.6004841 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 352,
+			"componentType": 5126,
+			"count": 27,
+			"max": [ 2.95437, 0.9601142 ],
+			"min": [ -1.940961, 0.0398857 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 49568,
+			"componentType": 5126,
+			"count": 27,
+			"max": [ 0.9984283, 0.992146, 0.09396488, -1 ],
+			"min": [ -0.9585563, 0.05604354, -0.1094886, -1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 22548,
+			"componentType": 5123,
+			"count": 42,
+			"max": [ 26 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 75000,
+			"componentType": 5126,
+			"count": 2280,
+			"max": [ 0.2890095, 0.5300632, 0.28656 ],
+			"min": [ -0.2767408, -0.5720109, 0.07947456 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 102360,
+			"componentType": 5126,
+			"count": 2280,
+			"max": [ 0.9997869, 1, 1 ],
+			"min": [ -0.9997869, -1, -1 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 568,
+			"componentType": 5126,
+			"count": 2280,
+			"max": [ 2.722166, 9.458006 ],
+			"min": [ -1.722167, -8.458006 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 50000,
+			"componentType": 5126,
+			"count": 2280,
+			"max": [ 1, 0.05677893, 1, 1 ],
+			"min": [ -0.05150401, -0.05677939, -1, -1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 22632,
+			"componentType": 5123,
+			"count": 9216,
+			"max": [ 2279 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 129720,
+			"componentType": 5126,
+			"count": 1942,
+			"max": [ 0.3403383, 0.7093129, 0.2072277 ],
+			"min": [ -0.3403383, -0.7085758, -0.2134146 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 153024,
+			"componentType": 5126,
+			"count": 1942,
+			"max": [ 0.9999832, 0.9998424, 1 ],
+			"min": [ -0.9999832, -1, -1 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 86480,
+			"componentType": 5126,
+			"count": 1942,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 41064,
+			"componentType": 5123,
+			"count": 5280,
+			"max": [ 1941 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 176328,
+			"componentType": 5126,
+			"count": 42,
+			"max": [ -0.1752755, 0.5946445, 0.138197 ],
+			"min": [ -0.2911307, -0.6760238, -0.0563382 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 176832,
+			"componentType": 5126,
+			"count": 42,
+			"max": [ -0.09386102, 0.9500536, 0.1427178 ],
+			"min": [ -0.9856632, -0.9188944, -0.6022091 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 18808,
+			"componentType": 5126,
+			"count": 42,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 117552,
+			"componentType": 5126,
+			"count": 42,
+			"max": [ 0.9240499, 0.9376116, 0.9550413, 1 ],
+			"min": [ -0.6409276, -0.4335683, -0.9162013, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 51624,
+			"componentType": 5123,
+			"count": 42,
+			"max": [ 41 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 177336,
+			"componentType": 5126,
+			"count": 333,
+			"max": [ 0.3020677, 0.6910819, 0.2229569 ],
+			"min": [ -0.3020776, -0.6946623, 0.04891367 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 181332,
+			"componentType": 5126,
+			"count": 333,
+			"max": [ 1, 0.9999928, 1 ],
+			"min": [ -1, -0.9981065, 0.0001862181 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 118224,
+			"componentType": 5126,
+			"count": 333,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 51708,
+			"componentType": 5123,
+			"count": 996,
+			"max": [ 332 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 185328,
+			"componentType": 5126,
+			"count": 2297,
+			"max": [ 0.3020678, 0.7255691, 0.2229569 ],
+			"min": [ -0.3020776, -0.725569, -0.222957 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 212892,
+			"componentType": 5126,
+			"count": 2297,
+			"max": [ 0.9999983, 0.9988041, 1 ],
+			"min": [ -0.9999883, -0.9999964, -1 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 123552,
+			"componentType": 5126,
+			"count": 2297,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 53700,
+			"componentType": 5123,
+			"count": 8508,
+			"max": [ 2296 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 240456,
+			"componentType": 5126,
+			"count": 184,
+			"max": [ 0.2690482, 0.3399748, -0.03847829 ],
+			"min": [ -0.2690493, -0.6681097, -0.1981456 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 242664,
+			"componentType": 5126,
+			"count": 184,
+			"max": [ 0.9592966, 0.6273603, -0.06787831 ],
+			"min": [ -0.9910008, -0.7936517, -0.8499466 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 160304,
+			"componentType": 5126,
+			"count": 184,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 70716,
+			"componentType": 5123,
+			"count": 606,
+			"max": [ 183 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 244872,
+			"componentType": 5126,
+			"count": 670,
+			"max": [ 0.2499112, 0.7125285, 0.135455 ],
+			"min": [ -0.2499382, 0.6340265, 0.02366178 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 252912,
+			"componentType": 5126,
+			"count": 670,
+			"max": [ 0.9976157, 0.9978624, 1 ],
+			"min": [ -0.9976137, -0.9505159, -0.999675 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 163248,
+			"componentType": 5126,
+			"count": 670,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 71928,
+			"componentType": 5123,
+			"count": 3486,
+			"max": [ 669 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 260952,
+			"componentType": 5126,
+			"count": 197,
+			"max": [ 0.01918302, 0.698773, 0.07389161 ],
+			"min": [ -0.01921037, 0.6764151, 0.03331687 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 263316,
+			"componentType": 5126,
+			"count": 197,
+			"max": [ 1, 0.9849607, 0.9849455 ],
+			"min": [ -1, -0.9849522, -0.9849461 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 173968,
+			"componentType": 5126,
+			"count": 197,
+			"max": [ 1, 0, 0, 1 ],
+			"min": [ 1, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 78900,
+			"componentType": 5123,
+			"count": 546,
+			"max": [ 196 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		}
+	],
+	"buffers": [
+		{
+			"byteLength": 541936,
+			"uri": "xiaojiaoche2.bin"
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 79992,
+			"target": 34963,
+			"byteOffset": 461944
+		},
+		{
+			"buffer": 0,
+			"byteLength": 19144,
+			"target": 34962,
+			"byteStride": 8,
+			"byteOffset": 0
+		},
+		{
+			"buffer": 0,
+			"byteLength": 265680,
+			"target": 34962,
+			"byteStride": 12,
+			"byteOffset": 19144
+		},
+		{
+			"buffer": 0,
+			"byteLength": 177120,
+			"target": 34962,
+			"byteStride": 16,
+			"byteOffset": 284824
+		}
+	],
+	"images": [
+		{
+			"uri": "Assets/FBX/CarModel/小轿车1(2).fbm/Archmodels55_light_red.jpg"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小轿车2(1).fbm/che1.jpg"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小轿车1(2).fbm/Archmodels55_light_orange.jpg"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小轿车1(2).fbm/Archmodels55_tyre.jpg"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小货车2(1).fbm/che11.jpg"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小轿车1(2).fbm/che6.png"
+		},
+		{
+			"uri": "Assets/FBX/CarModel/小轿车1(2).fbm/che14.jpg"
+		}
+	],
+	"materials": [
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 0,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.627451, 0.0627451, 0.0627451, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "Archmodels55_light_red"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 1,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.5176471, 0.5019608, 0.8588236, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "che1"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 2,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.6901961, 0.3058824, 0.1176471, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "Archmodels55_light_orange"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 3,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.04705883, 0.04705883, 0.04705883, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "Archmodels55_tyre"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 4,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.09803922, 0.09803922, 0.09803922, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "che11"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 5,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.1568628, 0.1568628, 0.1568628, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"alphaMode": "BLEND",
+			"alphaCutoff": 0.5,
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "che6"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 6,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.9490197, 0.9647059, 0.5607843, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "che14"
+		},
+		{
+			"pbrMetallicRoughness": {
+				"baseColorFactor": [0.6156863, 0.6156863, 0.6156863, 1],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "che7"
+		}
+	],
+	"meshes": [
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj5_23896Car - Volkswagen Golf (1991)_bodydetachobj5",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"TEXCOORD_0": 2,
+						"TANGENT": 3
+					},
+					"indices": 4,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj11_23908Car - Volkswagen Golf (1991)_bodydetachobj11",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 5,
+						"NORMAL": 6,
+						"TANGENT": 7
+					},
+					"indices": 8,
+					"material": 1,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj6_23898Car - Volkswagen Golf (1991)_bodydetachobj6",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 9,
+						"NORMAL": 10,
+						"TEXCOORD_0": 11,
+						"TANGENT": 12
+					},
+					"indices": 13,
+					"material": 2,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj10_23906Car - Volkswagen Golf (1991)_bodydetachobj10",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 14,
+						"NORMAL": 15,
+						"TEXCOORD_0": 16,
+						"TANGENT": 17
+					},
+					"indices": 18,
+					"material": 3,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj2_23890Car - Volkswagen Golf (1991)_bodydetachobj2",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 19,
+						"NORMAL": 20,
+						"TANGENT": 21
+					},
+					"indices": 22,
+					"material": 4,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj7_23900Car - Volkswagen Golf (1991)_bodydetachobj7",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 23,
+						"NORMAL": 24,
+						"TEXCOORD_0": 25,
+						"TANGENT": 26
+					},
+					"indices": 27,
+					"material": 2,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj3_23892Car - Volkswagen Golf (1991)_bodydetachobj3",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 28,
+						"NORMAL": 29,
+						"TANGENT": 30
+					},
+					"indices": 31,
+					"material": 4,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj1_23888Car - Volkswagen Golf (1991)_bodydetachobj1",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 32,
+						"NORMAL": 33,
+						"TANGENT": 34
+					},
+					"indices": 35,
+					"material": 1,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj4_23894Car - Volkswagen Golf (1991)_bodydetachobj4",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 36,
+						"NORMAL": 37,
+						"TANGENT": 38
+					},
+					"indices": 39,
+					"material": 5,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj8_23902Car - Volkswagen Golf (1991)_bodydetachobj8",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 40,
+						"NORMAL": 41,
+						"TANGENT": 42
+					},
+					"indices": 43,
+					"material": 6,
+					"mode": 4
+				}
+			]
+		},
+		{
+			"name": "mesh_Car - Volkswagen Golf (1991)_bodydetachobj9_23904Car - Volkswagen Golf (1991)_bodydetachobj9",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 44,
+						"NORMAL": 45,
+						"TANGENT": 46
+					},
+					"indices": 47,
+					"material": 7,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "UnityGlTF_root",
+			"children": [
+				3
+			]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj5_-230428",
+			"mesh": 0,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj11_-230440",
+			"mesh": 1,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_2 (1)_-230416",
+			"children": [
+				9,
+				6,
+				8,
+				10,
+				1,
+				4,
+				7,
+				11,
+				12,
+				5,
+				2
+			],
+			"matrix": [1, 0, 0, 0, 0, -1.192093E-07, 1, 0, 0, -1, -1.192093E-07, 0, 2.518296E-05, 0.7103691, -2.055099, 1]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj6_-230430",
+			"mesh": 2,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj10_-230438",
+			"mesh": 3,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj2_-230422",
+			"mesh": 4,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj7_-230432",
+			"mesh": 5,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj3_-230424",
+			"mesh": 6,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj1_-230420",
+			"mesh": 7,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj4_-230426",
+			"mesh": 8,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj8_-230434",
+			"mesh": 9,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		},
+		{
+			"name": "node_Car - Volkswagen Golf (1991)_bodydetachobj9_-230436",
+			"mesh": 10,
+			"translation": [ 1.062472E-07, 4.768372E-07, -0.09006643],
+			"scale": [ 2.832143, 2.832143, 2.832143]
+		}
+	],
+	"samplers": [
+		{
+			"magFilter": 9729,
+			"minFilter": 9985,
+			"wrapS": 10497,
+			"wrapT": 10497
+		}
+	],
+	"scenes": [
+		{
+			"name":"defaultScene",
+			"nodes": [
+				0
+			]
+		}
+	],
+	"scene": 0,
+	"textures": [
+		{
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"sampler": 0,
+			"source": 6
+		}
+	]
+}

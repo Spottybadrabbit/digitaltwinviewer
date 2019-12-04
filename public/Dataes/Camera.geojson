@@ -1,0 +1,61 @@
+{
+	"type": "FeatureCollection",
+	"name": "XianBaseStation",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+        {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942917,34.261173]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942937,34.260933]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942513,34.260556]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942171,34.260573]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.941847,34.260810]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942146,34.261481]
+		}
+	},
+    {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.942487,34.261512]
+		}
+	}
+  ]
+}

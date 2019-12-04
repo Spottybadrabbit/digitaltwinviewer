@@ -1,0 +1,49 @@
+{
+    "success": true,
+    "data": {
+        "sampleList":[{
+            "id": "arcLayer-line",
+            "type": "arcLayer",
+            "data": "http://localhost:3000/upload/upload.json",
+            "pickable": true,
+            "getWidth": 12,
+            "title": "test1",
+            "url": "//upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "content": "testtest",
+            "pop": "111",
+            "center": [108.8798, 34.199]
+        }, {
+            "id": "scenegraphLayer-build",
+            "type": "scenegraLayer",
+            "data": [{
+                "position": [108.8798, 34.199],
+                "color": [255, 0, 0]
+            }],
+            "scenegraph": "http://localhost:3000/model/yhgj.glb",
+            "getScale": [1, 1, 1],
+            "sizeScale": 1,
+            "getOrientation": [0, -180, 90],
+            "title": "test2",
+            "url": "//upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "content": "testtest",
+            "pop": "222",
+            "center": [108.8798, 34.199]
+        }, {
+            "id": "scenegraphLayer-7floor",
+            "type": "scenegraLayer",
+            "data": [{
+                "position": [108.8798, 34.199],
+                "color": [255, 0, 0]
+            }],
+            "scenegraph": "http://localhost:3000/model/7floor.glb",
+            "getScale": [1, 1, 1],
+            "sizeScale": 1,
+            "getOrientation": [0, -180, 90],
+            "title": "test3",
+            "url": "//upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "content": "testtest",
+            "pop": "333",
+            "center": [108.8798, 34.199]
+        }]
+    }
+}

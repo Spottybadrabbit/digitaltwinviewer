@@ -1,0 +1,1057 @@
+[{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市后卫寨地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.813536, 34.300164]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市三桥地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.832212, 34.289958]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市皂河地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.852420, 34.284382]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市枣园地铁站",
+		"TYPE": "0",
+		"weight": 0.2
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.862601, 34.279195]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市汉城路地铁站",
+		"TYPE": "0",
+		"weight": 0.15
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.862601, 34.279195]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市开远门地铁站",
+		"TYPE": "0",
+		"weight": 0.25
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.892467, 34.269363]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市劳动路地铁站",
+		"TYPE": "0",
+		"weight": 0.4
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.909407, 34.268719]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市玉祥门地铁站",
+		"TYPE": "0",
+		"weight": 0.8
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.920911, 34.269614]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市洒金桥地铁站",
+		"TYPE": "0",
+		"weight": 0.6
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.933825,34.269705]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市北大街地铁站",
+		"TYPE": "1",
+		"weight": 1.0
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947165,34.269927]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市五路口地铁站",
+		"TYPE": "1",
+		"weight": 0.96
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.963543,34.270030]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市朝阳门地铁站",
+		"TYPE": "0",
+		"weight": 0.76
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.974075,34.269971]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市康复路地铁站",
+		"TYPE": "0",
+		"weight": 0.88
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.984468,34.269485]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市通化门地铁站",
+		"TYPE": "1",
+		"weight": 1.0
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.995383,34.269755]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市万寿路地铁站",
+		"TYPE": "0",
+		"weight": 0.56
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.013057,34.269596]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市长乐坡地铁站",
+		"TYPE": "0",
+		"weight": 0.43
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.030931,34.268968]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市浐河地铁站",
+		"TYPE": "0",
+		"weight": 0.15
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.044430,34.273980]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市半坡地铁站",
+		"TYPE": "0",
+		"weight": 0.23
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.056163,34.275477]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市纺织城地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.069261,34.279738]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市北客站地铁站",
+		"TYPE": "1",
+		"weight": 0.87
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.940174,34.341568]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市北苑地铁站",
+		"TYPE": "0",
+		"weight": 0.65
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.944514,34.360204]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市运动公园地铁站",
+		"TYPE": "0",
+		"weight": 0.69
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947695,34.352431]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市行政中心地铁站",
+		"TYPE": "1",
+		"weight": 0.89
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947329,34.340983]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市凤城五路地铁站",
+		"TYPE": "0",
+		"weight": 0.96
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947288,34.329789]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市市图书馆地铁站",
+		"TYPE": "0",
+		"weight": 0.77
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947348,34.317812]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大明宫西地铁站",
+		"TYPE": "0",
+		"weight": 0.78
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947265,34.305087]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市龙首原地铁站",
+		"TYPE": "0",
+		"weight": 0.56
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947517,34.292394]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市安远门地铁站",
+		"TYPE": "0",
+		"weight": 0.32
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947231,34.281185]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市钟楼地铁站",
+		"TYPE": "0",
+		"weight": 1.0
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947035,34.261337]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市永宁门地铁站",
+		"TYPE": "0",
+		"weight": 0.92
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.946952,34.248186]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市南稍门地铁站",
+		"TYPE": "0",
+		"weight": 0.81
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.946913,34.240378]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市体育场地铁站",
+		"TYPE": "0",
+		"weight": 0.88
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.946642,34.232716]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市小寨地铁站",
+		"TYPE": "1",
+		"weight": 1.0
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.946767,34.222838]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市纬一街地铁站",
+		"TYPE": "0",
+		"weight": 0.91
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.945558,34.212358]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市会展中心地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.947444,34.198082]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市三爻地铁站",
+		"TYPE": "0",
+		"weight": 0.23
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.945910,34.183021]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市凤栖原地铁站",
+		"TYPE": "0",
+		"weight": 1.0
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.945630,34.183197]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市航天城地铁站",
+		"TYPE": "0",
+		"weight": 0.34
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.944668,34.158006]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市韦曲南地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.945513,34.142117]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市鱼化寨地铁站",
+		"TYPE": "0",
+		"weight": 0.33
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.848255,34.237997]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市丈八北路地铁站",
+		"TYPE": "0",
+		"weight": 0.31
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.8687368000,34.2390436000]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市延平门地铁站",
+		"TYPE": "0",
+		"weight": 0.63
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.887444,34.237200]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市科技路地铁站",
+		"TYPE": "0",
+		"weight": 0.45
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.916648,34.225653]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市太白南路地铁站",
+		"TYPE": "0",
+		"weight": 0.72
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.916648,34.225653]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市吉祥村地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.933298,34.222653]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大雁塔地铁站",
+		"TYPE": "1",
+		"weight": 0.79
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.964312,34.222888]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市北池头地铁站",
+		"TYPE": "0",
+		"weight": 0.54
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.977247,34.223829]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市青龙寺地铁站",
+		"TYPE": "0",
+		"weight": 0.77
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.993981,34.230875]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市延兴门地铁站",
+		"TYPE": "0",
+		"weight": 0.69
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.996738,34.244147]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市长乐公园地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.996143,34.260657]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市通化门地铁站",
+		"TYPE": "1",
+		"weight": 0.99
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.995383,34.269755]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市胡家庙地铁站",
+		"TYPE": "0",
+		"weight": 0.74
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.995605,34.277787]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市石家街地铁站",
+		"TYPE": "0",
+		"weight": 0.60
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9907217000,34.2922506400]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市辛家庙地铁站",
+		"TYPE": "0",
+		"weight": 0.81
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.995584,34.304945]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市广泰门地铁站",
+		"TYPE": "0",
+		"weight": 0.72
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.013223,34.310839]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市桃花潭地铁站",
+		"TYPE": "0",
+		"weight": 0.45
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.033190,34.311176]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市浐灞中心地铁站",
+		"TYPE": "0",
+		"weight": 0.45
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.046230,34.316972]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市香湖湾地铁站",
+		"TYPE": "0",
+		"weight": 0.22
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.052310,34.330218]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市务庄地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.047458,34.345264]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市国际港务区地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.039350,34.361112]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市双寨地铁站",
+		"TYPE": "0",
+		"weight": 0.2
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.041148,34.372396]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市新筑地铁站",
+		"TYPE": "0",
+		"weight": 0.1
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.042815,34.383076]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市保税区地铁站",
+		"TYPE": "0",
+		"weight": 0.3
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.044083,34.395588]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市北客站（北广场）地铁站",
+		"TYPE": "0",
+		"weight": 0.87
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9340852500,34.3809009200]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市元朔路地铁站",
+		"TYPE": "0",
+		"weight": 0.15
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9250467400,34.3687058700]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市凤城十二路地铁站",
+		"TYPE": "0",
+		"weight": 0.33
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9251074100,34.3605718900]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市凤城九路地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9251244600,34.3492152100]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市文景路地铁站",
+		"TYPE": "0",
+		"weight": 0.77
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9321619400,34.3424862100]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市市中医院地铁站",
+		"TYPE": "0",
+		"weight": 0.87
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9558060300,34.3424967500]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市常青路地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9668775700,34.3369881400]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市百花村地铁站",
+		"TYPE": "0",
+		"weight": 0.45
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9668751300,34.3279718600]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市余家寨地铁站",
+		"TYPE": "0",
+		"weight": 0.47
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9668325600,34.3188160400]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大明宫北地铁站",
+		"TYPE": "0",
+		"weight": 0.61
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9667668000,34.3097195500]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大明宫地铁站",
+		"TYPE": "0",
+		"weight": 0.54
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9666892400,34.2982858300]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市含元殿地铁站",
+		"TYPE": "0",
+		"weight": 0.32
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9667374200,34.2893811500]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大差市地铁站",
+		"TYPE": "0",
+		"weight": 0.57
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.963111,34.259466]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市和平门地铁站",
+		"TYPE": "0",
+		"weight": 0.89
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.963344,34.249798]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市建筑科技大学李家村地铁站",
+		"TYPE": "0",
+		"weight": 0.87
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.965948,34.235381]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市西安科技大学地铁站",
+		"TYPE": "0",
+		"weight": 0.94
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.9589875800,34.2345842100]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市大唐芙蓉园地铁站",
+		"TYPE": "0",
+		"weight": 0.67
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.971227,34.209813]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市曲江池西地铁站",
+		"TYPE": "0",
+		"weight": 0.54
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.983346,34.201591]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市金滹沱地铁站",
+		"TYPE": "0",
+		"weight": 0.90
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.975248,34.180581]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市航天大道地铁站",
+		"TYPE": "0",
+		"weight": 0.81
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.974402,34.171787]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市飞天路地铁站",
+		"TYPE": "0",
+		"weight": 0.51
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.974436,34.162362]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市东长安街地铁站",
+		"TYPE": "0",
+		"weight": 0.83
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.974509,34.154352]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市神舟大道地铁站",
+		"TYPE": "0",
+		"weight": 0.54
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.983703,34.142516]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市航天东路地铁站",
+		"TYPE": "0",
+		"weight": 0.41
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.99655,34.142488]
+	}
+},
+{
+	"type": "Feature",
+	"properties": {
+		"NAME": "西安市航天新城地铁站",
+		"TYPE": "0",
+		"weight": 0.29
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [109.013108,34.142534]
+	}
+}
+]
